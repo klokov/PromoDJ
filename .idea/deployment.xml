@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action (Ctrl+S)" serverName="MyWebServer" deleteMissingItems="true">
+    <serverData>
+      <paths name="MyWebServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="D:\PROJECTS\WEB\pdj.storm\application\cache" />
+            <excludedPath path="D:\PROJECTS\WEB\pdj.storm\application\logs" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
+
